@@ -2,8 +2,8 @@ import copy
 
 
 OBJECT_EMPTY = None
-OBJECT_HOUSE = "🏠"
-OBJECT_HOSPITAL = "🏥"
+OBJECT_HOUSE = "C"
+OBJECT_HOSPITAL = "H"
 
 
 MOVE_UP = (0, -1)
